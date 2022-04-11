@@ -44,3 +44,8 @@
 .fonte-logo{
     font-family: 'Roboto Slab', serif;
 }
+
+.card{
+    justify-content: center;
+    align-content: column;
+}

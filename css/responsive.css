@@ -26,4 +26,9 @@
         margin-top: 50px;
     }
 
+    .card-body{
+        margin-left: 10px;
+        padding:0;
+    }
+
 }
