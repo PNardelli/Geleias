@@ -1,0 +1,46 @@
+.body{
+    font-family: Georgia, 'Times New Roman', 'Roboto Slab', Times, serif;
+}
+
+.navbar{
+    background-color: rgb(254, 184, 89);
+}
+
+.nav-link{
+    color: orange;
+}
+
+.logo{
+    margin-left: 10px;
+}
+
+.nosso-produto{
+    background: rgba(255, 165, 38, 0.715);
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px ;
+}
+
+.contatos{
+    background: hsl(196, 44%, 85%);
+}
+
+.geleia{
+    background: rgba(255, 165, 38, 0.715);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.dropdown-link{
+    color: wheat;
+}
+
+.fonte-logo{
+    font-family: 'Roboto Slab', serif;
+}

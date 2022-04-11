@@ -1,0 +1,29 @@
+@media screen and (max-width: 800px){
+    .nosso-produto .rounded-circle{
+        width: 70%;
+        height: 100%;
+    }
+
+    .navbar{
+        justify-content: center;
+    }
+
+    .logo{
+        justify-content: center;
+    }
+
+    .margin{
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .geleia p{
+        margin-top: 10px;
+        font: bolder;
+        margin-bottom: 0;
+    }
+
+    .col-lg-4{
+        margin-top: 50px;
+    }
+
+}
