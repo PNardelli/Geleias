@@ -23,16 +23,21 @@
     }
 
     .col-lg-4{
-        margin-top: 50px;
+        display: flex;
     }
 
-.card{
-    width:12rem;
-}
+    .card{
+        width:12rem;
+    }
 
     .card-body{
         margin-left: 10px;
         padding:0;
+    }
+
+    .div-contatos{
+        display:flex;
+        flex-direction:row;
     }
 
 }
