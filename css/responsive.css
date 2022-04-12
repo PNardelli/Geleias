@@ -26,9 +26,6 @@
         display: flex;
     }
 
-    .card{
-        width:12rem;
-    }
 
     .card-body{
         margin-left: 10px;

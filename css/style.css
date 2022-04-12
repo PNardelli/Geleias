@@ -37,7 +37,7 @@
     
 }
 
-.rodape{
+.rodape a{
     color:black;
 }
 
@@ -52,4 +52,6 @@
 .card{
     justify-content: center;
     align-content: column;
+    display: table-cell;
+    margin-bottom: 5px;
 }
