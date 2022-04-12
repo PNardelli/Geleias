@@ -34,7 +34,11 @@
 .sm-footer{
     background-color: rgb(94, 94, 255);
     color: black;
-    padding: 5px;
+    
+}
+
+.rodape{
+    color:black;
 }
 
 .dropdown-link{
